@@ -60,32 +60,6 @@ To comply with institutional data policies, **raw GNSS data and trained model fi
 - CSS
 
 ---
-
-## Repository Structure
-
-```text
-.
-├── backend/
-│   ├── DB/                 # Database logic (no actual data)
-│   ├── Image/              # Static images
-│   ├── Model_training/     # Training scripts (datasets excluded)
-│   ├── data_predicted/     # Output folder structure (empty)
-│   ├── dst.py              # DST index processing
-│   ├── f10.7.py            # Solar flux (F10.7) processing
-│   ├── graph_api.py        # Visualization API
-│   └── raw_upload_api.py   # Raw GNSS data ingestion
-│
-├── frontend/
-│   ├── assets/
-│   ├── components/
-│   ├── App.jsx
-│   ├── App.css
-│   ├── main.jsx
-│   ├── index.css
-│   └── theme.js
-│
-└── README.md
-
 Data and Model Rights
 
 All GNSS datasets used in this project are confidential and are the property of
@@ -129,3 +103,28 @@ Author
 Tharani P S
 GNSS Summer Intern
 IIT Tirupati Navavishkar I-Hub Foundation
+
+## Repository Structure
+
+```text
+.
+├── backend/
+│   ├── DB/                 # Database logic (no actual data)
+│   ├── Image/              # Static images
+│   ├── Model_training/     # Training scripts (datasets excluded)
+│   ├── data_predicted/     # Output folder structure (empty)
+│   ├── dst.py              # DST index processing
+│   ├── f10.7.py            # Solar flux (F10.7) processing
+│   ├── graph_api.py        # Visualization API
+│   └── raw_upload_api.py   # Raw GNSS data ingestion
+│
+├── frontend/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   ├── index.css
+│   └── theme.js
+│
+└── README.md
