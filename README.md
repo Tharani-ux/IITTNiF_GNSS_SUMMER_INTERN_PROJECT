@@ -60,16 +60,15 @@ To comply with institutional data policies, **raw GNSS data and trained model fi
 - CSS
 
 ---
-Data and Model Rights
+### Data and Model Rights
 
-All GNSS datasets used in this project are confidential and are the property of
-IIT Tirupati Navavishkar I-Hub Foundation (IITTNiF).
+- All GNSS datasets used in this project are confidential and are the property of IIT Tirupati Navavishkar I-Hub Foundation (IITTNiF).
 
-Trained machine learning and deep learning models generated using institutional data are not shared.
+- Trained machine learning and deep learning models generated using institutional data are not shared.
 
-This repository contains only the implementation code and system structure.
+- This repository contains only the implementation code and system structure.
 
-Usage Restrictions and License
+### Usage Restrictions and License
 
 Copyright © 2025
 IIT Tirupati Navavishkar I-Hub Foundation (IITTNiF) and Tharani P S
@@ -80,15 +79,15 @@ This repository is made public strictly for academic, educational, and portfolio
 
 The following conditions apply:
 
-Redistribution, commercial usage, deployment, or sublicensing of this software or its derivatives is not permitted without prior written consent from IIT Tirupati Navavishkar I-Hub Foundation.
+- Redistribution, commercial usage, deployment, or sublicensing of this software or its derivatives is not permitted without prior written consent from IIT Tirupati Navavishkar I-Hub Foundation.
 
-The source code may be viewed or referenced only for academic learning purposes, with proper attribution.
+- The source code may be viewed or referenced only for academic learning purposes, with proper attribution.
 
-Any attempt to recreate, infer, or use the original datasets or trained models without authorization is prohibited.
+- Any attempt to recreate, infer, or use the original datasets or trained models without authorization is prohibited.
 
-The software is provided “as is”, without any warranty.
+- The software is provided “as is”, without any warranty.
 
-Acknowledgment
+### Acknowledgment
 
 I sincerely thank IIT Tirupati Navavishkar I-Hub Foundation (IITTNiF) and the
 GNSS Technology Development Cell for providing the opportunity and resources to carry out this work.
@@ -98,7 +97,7 @@ Dr. K. G. Sujanth Narayan
 Technology Manager – GNSS
 for his guidance and continuous support throughout the project.
 
-Author
+### Author
 
 Tharani P S
 GNSS Summer Intern
