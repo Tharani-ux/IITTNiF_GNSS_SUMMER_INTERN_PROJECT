@@ -1,3 +1,5 @@
+License: Custom – Academic Use Only
+
 # GNSS TEC Modelling and Visualization System
 
 This repository contains the implementation code for the project  
